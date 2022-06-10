@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lab 3 Assignment</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Autobody and Works">
+        <meta name="keywords" content="Website Developers, Tienese Autobody and Works.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="Stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="main">
+            <div class="left">
+                <img src="logo.jpg" class="pfp" alt="Employees Profile Picture">
+                <h3 class="rh">Contact</h3>
+                <p class="emj">Address:<span>No.02 Dickson Tienese drive, Maitama, FCT</span></p>
+                <p class="emj">Phone No.:<span>+2349063999255</span></p>
+                <p class="emj">E-mail<span>wtiebebedigha1@gmail.com</span></p>
+                <p class="emj">Website<span>Tienese.com</span></p>
+                <h3 class="rh">Languages</h3>
+                <label for="eng" 
+                class="li">ENGLISH</label>
+                <input class="emj" type="range"
+                value="80"><br>
+                <label for="Ita"
+                class="li">ITALIAN</label>
+                <input class="emj" type="range"
+                value="60"><br>
+                <label for="Ger"
+                class="li">GERMAN</label>
+                <input class="emj" type="range"
+                value="68"><br>
+                <label for="Fre"
+                class="li">FRENCH</label>
+                <input class="emj" type="range"
+                value="70"><br>
+                <h3 class="rh">Hobbies</h3>
+                <pre class="li">
+                    Modeling Cars
+                    Playing video games
+                    Drawing
+                </pre>
+            </div>
+            <div class="right" style="float: left;">
+                <h3 class="lh" style="text-align: center;">PERSONAL PROFILE</h3>
+                <p style="text-align: center;">
+                    A well trained software and automobile engineer. Combining both tradtional and digital methods of designing to produce the best piece. I program with three languages python,html and css.
+                    i am confident in my ability to come up with interesting ideas for great websites and interesting prototypes for auto makers.
+                </p>
+                <h3 class="lh" style="text-align: center;">EDUCATION</h3>
+                <table class="tab">
+                    <th class="tab2">University</th>
+                    <th class="tab2">Date</th>
+                    <th class="tab2">Degree</th>
+                    <tr>
+                        <td class="tab2">Massachusetts Institute of Technology</td>
+                        <td class="tab2">2013 - 2017</td>
+                        <td class="tab2">Bachelor in Mechanical Engineering</td>
+                    </tr>
+                    <tr>
+                        <td class="tab2">University of Michigan</td>
+                        <td class="tab2">2018 - 2021</td>
+                        <td class="tab2">Bachelor in Industral Design</td>
+                    </tr>
+                    <tr>
+                        <td class="tab2">Cambridge University</td>
+                        <td class="tab2">2021 - 2024</td>
+                        <td class="tab2">Masters in Software Engineering</td>
+                    </tr>
+                </table>
+                <h3 class="lh" style="text-align: center;">WORK EXPERIENCE</h3>
+                <table class="tab">
+                    <th class="tab2">Place of Work</th>
+                    <th class="tab2">Date</th>
+                    <th class="tab2">What i do</th>
+                    <tr>
+                        <td class="tab2">AMG Diamler, Designer</td>
+                        <td class="tab2">May 2019 - August 2021</td>
+                        <td class="tab2"> Maintained and organized numerous prototype designs.
+                            Constantly updated the company's designs.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="tab2">Liberty Works, Software Analyst</td>
+                        <td class="tab2">Jun 2018 - Jul 2020</td>
+                        <td class="tab2">Handled the company's softwre problems. 
+                            Regularly updated the company's website and other various social media and accounts.
+                        Monitored software apps. 
+                    Prepared designs for prospective clients.
+                </td>
+                    </tr>
+                </table>
+                <h3 class="lh" style="text-align: center;">PROFESSIONAL SKILLS</h3>
+                <ul>
+                    <li class="dot"><span class="black">Exceptional communication and networking skills</span></li>
+                    <li class="dot"><span class="black">Successful working in a team environment, as well as independently.</span></li>
+                    <li class="dot"><span class="black">The ability to work under limited timing, pressure and multi-task.</span></li>
+                    <li class="dot"><span class="black">I follow customers instructions and deliver quality results and somtimes better than the instruction given.</span></li>
+                </ul>
+
+            </div>
+
+        </div>
+    </body>
+</html>
